@@ -1,0 +1,162 @@
+{
+  "source_url": "https://www.studiogrossklein.de/",
+  "language": "de",
+  "company": {
+    "name": "studio gross klein",
+    "legal_name": "Mühlig-Hofmann Schnelle GbR",
+    "tagline": "Produktentwicklung",
+    "motto": "Wir entwickeln Neues, verbessern Bestehendes, schätzen Gutes und denken Altes neu.",
+    "founders": [
+      "Falko Smith (Falko Schnelle)",
+      "Johannes Mühlig-Hofmann"
+    ],
+    "title": "Diplom-Designer",
+    "description": "studio gross klein ist ein Büro für Produkt- und Industriedesign mit Sitz in Heuchelheim bei Gießen.",
+    "about": "Begeisterung für das Wertige, ob in Materialität, Verarbeitung oder Funktion. Interesse an der ganzheitlichen Auseinandersetzung mit Produkt, Mensch und Umfeld. Dafür steht studio gross klein.",
+    "expertise": "Alle Aspekte der Produktentwicklung – von der Ideenfindung bis zur Produktion. Mit frischem Blick von außen hinterfragen wir Bestehendes und unterstützen Unternehmen bei der Entwicklung neuer Ideen und Konzepte. Wir bieten unseren Kunden Erfahrung in der Produktentwicklung von Holz-, Metall- und Kunststoffartikeln und die Expertise über deren Handhabung und Eigenheiten.",
+    "address": {
+      "street": "Ludwig-Rinn-Str. 16",
+      "zip": "35452",
+      "city": "Heuchelheim",
+      "country": "Deutschland"
+    },
+    "phone": "+49 641 132 683 16",
+    "email": "info@studiogrossklein.de",
+    "website": "www.studiogrossklein.de",
+    "vat_id": "DE300777211",
+    "credits": {
+      "web_design": "Studio Tonique",
+      "web_development": "Ingo Lemper"
+    }
+  },
+  "navigation": [
+    "Leistungen",
+    "Projekte",
+    "Maxime",
+    "Studio",
+    "Jobs",
+    "Kontakt"
+  ],
+  "hero": {
+    "headline": "Unsere Leistungen decken den ganzheitlichen Prozess der richtigen Produktentwicklung ab, von der ersten Idee bis zur Markteinführung.",
+    "images_folder": "00-hero/images"
+  },
+  "leistungen": {
+    "headline": "Unsere Leistungen decken den ganzheitlichen Prozess der richtigen Produktentwicklung ab, von der ersten Idee bis zur Markteinführung.",
+    "services": [
+      {
+        "title": "Briefing",
+        "description": "Am Anfang unserer Arbeit steht das gründliche Briefing. Wir ermitteln gemeinsam mit unseren Kunden die Antworten auf die wichtigsten W-Fragen: Was? Wie? Wo? Wann? Womit? Warum? Sind alle relevanten Informationen zusammengetragen, erstellen wir ein Pflichtenheft und geben damit ein direktes Feedback. Gerne erstellen wir anschließend ein individuelles Angebot, inklusive aller für das Projekt notwendigen Leistungen. So entwickeln wir für Sie richtige Produkte."
+      },
+      {
+        "title": "Idee",
+        "description": "Wir sind gut darin starke Lösungen und neue Ideen zu finden. Das ist keine Zauberei, sondern das Anwenden spezieller Methoden und Techniken, die sich als erfolgreich bewährt haben. Dabei ziehen wir alle Register, um eine große Bandbreite an Lösungsansätzen zu generieren. Wir treffen eine Vorauswahl, indem wir die besten Ideen in einer Recherche auf ihre Einzigartigkeit hin überprüfen – immer mit dem Blick für Konzepte mit einer eigenen, authentischen Geschichte. Die Essenz dieser Phase wird sorgfältig aufbereitet und unserem Kunden exklusiv präsentiert."
+      },
+      {
+        "title": "Visualisierung",
+        "description": "Produkte müssen für die unterschiedlichsten Zwecke visualisiert werden – etwa wenn noch kein vollwertiges Modell vorliegt. Wir fertigen professionelle Zeichnungen und Renderings, also realistisch wirkende 3D-Modelle, an. Vektorgrafiken, wie sie häufig in Aufbauanleitungen zum Einsatz kommen, sind genauso möglich wie Infografiken oder Illustrationen etwa von Logos bis hin zu ganzen (Kinder-)Büchern. Dank unseres eigenen Fotostudios bieten wir unseren Kunden zudem ein professionelles Shooting ihres Produkts."
+      },
+      {
+        "title": "Modellbau",
+        "description": "Um eine große Idee zu bewerten, ist es hilfreich, sie im Kleinen zu testen. Für jede Phase und Anforderung können wir ein entsprechendes Modell anfertigen: Volumenmodell, Funktionsmodell, Anschauungsmodell, Raummodell, 1:1-Modell etc. Ob aus Papier, Pappe, Holz, Metall oder Kunststoff, wir realisieren Ihre Modelle in unserer Modellbauwerkstatt. Wir bieten die Abwicklung von Rapid Prototyping an, also Modelle aus dem 3D-Drucker, sowie präzise Konturschnitte in einer Vielzahl von Materialien mit unserer Laserschneidemaschine kurz Lasercutter. Zur Abformung von Kunststoffelementen wie bspw. Gehäuseteilen setzen wir unsere Vakuum Tiefziehmaschine ein und sind damit in der Lage unsere Designlösungen direkt und im Detail umzusetzen."
+      },
+      {
+        "title": "Entwicklung",
+        "description": "Hier geht es um die Umsetzung: Zu Beginn sammeln wir alle Daten, die für die Umsetzung wichtig sind und klären die entscheidenden Fragen: Welche Materialien bei welchem Herstellungsverfahren? Welche Mengen zu welchen Preisen? etc. Dieser Prozess wird von uns koordiniert und dient als Grundlage zur Anfertigung der technischen Daten, ob 3D CAD Modelle oder 2D Konstruktionspläne bzw. technische Zeichnungen. Die Kommunikation mit dem jeweiligen Produzenten ist für uns essentiell, so bleibt der Herstellungsprozess transparent und reibungslos. Gerne bieten wir an, die Produktionsphase zu begleiten, denn aus unserer Erfahrung heraus ergeben sich zu Beginn der Herstellung immer wieder notwendige Anpassungsarbeiten."
+      },
+      {
+        "title": "Sicherheit",
+        "description": "Wir kommen aus der Spielwarenbranche, die höchste Anforderungen an die Sicherheit von Produkten stellt. Mit unserer Zusatz-Ausbildung zu geprüften Fachkräften für die Spielzeugsicherheit wissen wir, welche Sicherheitsbestimmungen und Warnhinweise nötig sind. Auch kümmern wir uns bei Bedarf um eine Risikobewertungen im Vorfeld. Muss das Produkt nach dem Kauf zusammengebaut werden oder ist die Handhabung selbsterklärend? Wir arbeiten uns in die Materie ein und erstellen Aufbauanleitungen oder Gebrauchsanweisungen."
+      },
+      {
+        "title": "Tests",
+        "description": "Funktion. Stabilität. Handhabung. Sicherheit. Nutzerzufriedenheit. Ein Produkt muss auf Herz und Nieren getestet werden, noch bevor es an die Herstellung geht! Nur so werden eventuelle Schwachstellen so früh wie möglich entlarvt. Bei Bedarf wird diese notwendige Aufgabe von uns koordiniert und durchgeführt. Indem wir Sie hier entlasten, bleibt die technische Betreuung in einer Hand und die Kommunikationswege bleiben kurz und effizient."
+      },
+      {
+        "title": "Netzwerk",
+        "description": "Grafiker, Fotografen, Webentwickler, Texter, Strategieberater und Programmierer. Dank unseres Experten-Netzwerks übernehmen wir auch Projekte, die über unsere Kernkompetenz Produktentwicklung hinausgehen. Bei Bedarf stellen wir ein flexibles Team zusammen, das alle Kompetenzen ballt und hocheffizient zusammenarbeitet. Wir bieten dabei die Sicherheit, dass alle dieselbe Sprache sprechen – die des Kunden."
+      }
+    ],
+    "cta": "Alles beginnt mit Ihrem Vorhaben! Kommen Sie jetzt auf uns zu und erzählen Sie uns davon."
+  },
+  "maxime": {
+    "headline": "Unsere Maxime",
+    "subheadline": "Was zeichnet richtiges Design aus unserer Sicht aus:",
+    "principles": [
+      "Richtiges Design sorgt für Wiedererkennung.",
+      "Richtiges Design schafft Mehrwert.",
+      "Richtiges Design bringt das Produkt zum Sprechen.",
+      "Richtiges Design ist durchdacht.",
+      "Richtiges Design entsteht durch Sorgfalt.",
+      "Richtiges Design ist stabil.",
+      "Richtiges Design ist ausgereift.",
+      "Richtiges Design ist relevant.",
+      "Richtiges Design kann repariert werden.",
+      "Richtiges Design ist ressourcenschonend.",
+      "Richtiges Design ist ansprechend.",
+      "In richtigem Design steckt Liebe zum Detail.",
+      "Richtiges Design ist auf das Wesentliche reduziert.",
+      "Richtiges Design erzeugt Vertrauen.",
+      "Richtiges Design ist Sicher.",
+      "Richtiges Design macht Freude."
+    ]
+  },
+  "jobs": {
+    "headline": "Praktikum im studio gross klein",
+    "description": "Bei uns erlebt man wie richtige Produkte von der ersten Idee bis zur Marktreife heranwachsen und lernt damit alle wichtigen Schritte der Produktentwicklung kennen. Ob Spielwaren oder Gebrauchsgegenstände, die Spannbreite unserer Projekte ist immer vielfältig.",
+    "details": "Jeweils zum Semesterbeginn und vorzugsweise für 6 Monate suchen wir explizit Designstudenten die ihr Pflichtpraktikum absolvieren wollen. Andere Praktikas wie bspw. Schulpraktika bieten wir zurzeit leider nicht an. Vorkenntnisse in den gängigen Programmen sind wünschenswert, wichtig ist aber die Begeisterung für gute Produkte, die Lust an der Kreativität und die Freude an der Umsetzung. Neben einer Modellbauwerkstatt und einem Fotostudio bieten wir inspirierende Arbeitsräume mit Blick ins Grüne."
+  },
+  "project_categories": [
+    {
+      "id": "spielmittel",
+      "label": "Spielmittel",
+      "projects": [
+        "01-kuko-kugelkonzept",
+        "02-kuko-buecher",
+        "03-kuko-mechanik",
+        "04-kuko-zahnraeder",
+        "05-kuko-riemen",
+        "06-olirun",
+        "07-sandsieb",
+        "08-puzzeli",
+        "09-wuerfelkonzept",
+        "10-gigant-pyramide",
+        "11-mini-serie",
+        "12-flinke-freunde",
+        "13-bau-dir-was-clips",
+        "14-kadoki"
+      ]
+    },
+    {
+      "id": "technische-entwicklungen",
+      "label": "Technische Entwicklungen",
+      "projects": [
+        "15-sicherheitsclip",
+        "16-dt-140",
+        "17-barcodescanner",
+        "18-ria-ii"
+      ]
+    },
+    {
+      "id": "gebrauchsgegenstaende",
+      "label": "Gebrauchsgegenstände",
+      "projects": [
+        "19-leuchte-l4",
+        "20-simba",
+        "21-pneu",
+        "22-kabuto",
+        "23-rutschbrett"
+      ]
+    },
+    {
+      "id": "exponate",
+      "label": "Exponate",
+      "projects": [
+        "24-performance-house",
+        "25-licht-exponat",
+        "26-leuchten-generator",
+        "27-marktstand"
+      ]
+    }
+  ]
+}

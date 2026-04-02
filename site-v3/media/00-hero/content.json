@@ -1,0 +1,12 @@
+{
+  "slug": "00-hero",
+  "title": "Hero / Header",
+  "category": "site",
+  "description": "Hero slider images used on the main page header.",
+  "image_files": [
+    "aimex-studio-gross-klein-industrie-design_3.jpg",
+    "walker-studio-gross-klein-industrie-design_2.jpg",
+    "kabuto-studio-gross-klein-industrie-design_2.jpg"
+  ],
+  "source_url": "https://www.studiogrossklein.de/"
+}
