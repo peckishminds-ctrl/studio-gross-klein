@@ -5,7 +5,6 @@ Static website for [studio gross klein](https://studiogrossklein.de), a product-
 ## Structure
 
 ```
-site-v3/
 ├── index.html          # root redirect → /de/
 ├── de/                 # German pages
 ├── en/                 # English pages
@@ -20,7 +19,7 @@ site-v3/
 Any static server works, e.g.:
 
 ```bash
-npx serve site-v3 -l 9002
+npx serve . -l 9002
 ```
 
 ## Locales
