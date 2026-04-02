@@ -80,9 +80,9 @@
     var section = lang === 'de' ? 'projekte' : 'projects';
 
     if (x < 0.45) {
-      window.location.href = '/' + lang + '/' + section + '/#filter=gross';
+      window.location.href = '/studio-gross-klein/' + lang + '/' + section + '/#filter=gross';
     } else if (x > 0.55) {
-      window.location.href = '/' + lang + '/' + section + '/#filter=klein';
+      window.location.href = '/studio-gross-klein/' + lang + '/' + section + '/#filter=klein';
     }
   });
 })();
